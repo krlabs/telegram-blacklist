@@ -1,1 +1,3 @@
 Історія повідомлень Telegram - Olek (5600874520).
+
+tg://openmessage?user_id=5600874520
